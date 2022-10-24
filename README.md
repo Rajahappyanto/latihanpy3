@@ -25,3 +25,5 @@
 ### - Menjalankan IDLE
 ####   - Membuat file baru dengan nama *latihan3.py* (pastikan lokasi file pada folder lab2py pada direktori anda)
 ####   - Menggunakan fungsi *input* untuk mengambil nilai variabel dari keyboard
+
+![scs4]scspict/scs4.png

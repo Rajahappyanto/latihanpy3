@@ -6,4 +6,4 @@
 ### menjalankan tulisan "hello word" di layar
 ### menampilkan tulisan "saya sedang belajar python" di layar
 
-![scs2]scspict/scs2.png
+![scs2](scspict/scs2.png)

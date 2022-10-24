@@ -32,5 +32,8 @@
 ### instal dan download
 ### buat laman kerja baru
 
-![scs5]scspict/scs5.png
+![scs5](scspict/scs5.png)
+
+
+### sekian dan terimakasih
 

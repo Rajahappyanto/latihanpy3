@@ -28,3 +28,9 @@
 
 ![scs4](scspict/scs4.png)
 
+### langkah langkah pycharm
+### instal dan download
+### buat laman kerja baru
+
+![scs5]scspict/scs5.png
+

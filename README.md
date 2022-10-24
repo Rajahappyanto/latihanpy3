@@ -16,7 +16,7 @@
 ####   - Mencetak nilai variabel a dan b 
 ####   - Mencetak hasil penjumlahan a+b
 
-![scs3]scspict/scs3.png
+![scs3](scspict/scs3.png)
 
 
 
